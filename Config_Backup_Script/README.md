@@ -22,3 +22,6 @@ Modify the following variables in the script according to your environment:
 device_ip = '192.168.1.1'
 username = 'your_username'
 password = 'your_password'
+
+##Usage
+python backup_config.py --device_ip 192.168.1.1 --username your_username --password your_password
